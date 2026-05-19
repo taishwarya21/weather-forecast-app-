@@ -27,6 +27,7 @@ OpenWeatherMap API
 - 5-day forecast
 - Current location weather
 - Dark mode support
+- Live demo : https://taishwarya21.github.io/weather-forecast-app-/
 
 ## Author
 Aishwarya Tiwari
